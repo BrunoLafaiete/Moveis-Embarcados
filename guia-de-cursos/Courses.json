@@ -1,0 +1,122 @@
+[
+  {
+    "codigo": "1",
+    "name": "Sistemas de Informação",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Noturno",
+    "carga_horaria": "3600",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://www.undb.edu.br/hubfs/sistemas%20da%20informacao.jpg"
+      },
+      {
+        "url": "http://marcusmarques.com.br/wp-content/uploads/2017/02/sistemas-de-informacao.jpg"
+      }
+    ],
+    "video": "",
+    "telefone_contato": "4837217548",
+    "nome_coordenador": "Álvaro Junio Pereira Franco",
+    "email_coordenador": "alvaro.junio@ufsc.br",
+    "website": "https://sin.ufsc.br/"
+  },
+  {
+    "codigo": "2",
+    "name": "Educação Física - Bacharelado",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Diurno",
+    "carga_horaria": "3400",
+    "mapa": {
+      "lat": "-27.605898736357926",
+      "lgn": "-48.51944679797835"
+    },
+    "fotos": [
+      {
+        "url": "https://portalcds.ufsc.br/files/2022/09/8176a78f-c92d-485b-8516-057ed254766e-768x512.jpg"
+      },
+      {
+        "url": "https://www.google.com/maps/uv?pb=!1s0x952739a9c256404b%3A0xe6357a290b36c6b0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN0zxPJT--Nb3nOJ-YfCQSW3ImxYt_tZ5KtQB-e%3Dw213-h160-k-no!5scds%20ufsc%20-%20Pesquisa%20Google!15sCgIgAQ&imagekey=!1e10!2sAF1QipPi5eGMxGC9TdqOa7YGCrRaLbOM--7mf6nWeupS&hl=pt-BR&sa=X&ved=2ahUKEwi14YPvpJD6AhWZuJUCHU4UBIIQoip6BAhYEAM"
+      }
+    ],
+    "video": "",
+    "telefone_contato": "4837219367",
+    "nome_coordenador": "Carlos Luiz Cardoso",
+    "email_coordenador": "edfisica@contato.ufsc.br",
+    "website": "https://edfisica.grad.ufsc.br/"
+  },
+  {
+    "codigo": "3",
+    "name": "Odontologia",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Integral",
+    "carga_horaria": "5274",
+    "mapa": {
+      "lat": "-27.598837801030157",
+      "lgn": "-48.517693737151035"
+    },
+    "fotos": [
+      {
+        "url": "https://noticias.ufsc.br/files/2017/05/CCS.jpg"
+      },
+      {
+        "url": "https://noticias.paginas.ufsc.br/files/2012/02/odontologia_estagio_verao_2012_1.jpg"
+      }
+    ],
+    "video": "",
+    "telefone_contato": "4837213461",
+    "nome_coordenador": "Glaucia Santos Zimmermann",
+    "email_coordenador": "odontologia@contato.ufsc.br",
+    "website": "https://odontologia.ufsc.br/"
+  },
+  {
+    "codigo": "4",
+    "name": "Ciências da Computação",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Integral",
+    "carga_horaria": "3840",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://cco.paginas.ufsc.br/files/2007/06/INE_IN.jpg"
+      },
+      {
+        "url": "https://dine.paginas.ufsc.br/files/2018/08/treianamentoAgosto2018.jpg"
+      }
+    ],
+    "video": "",
+    "telefone_contato": "4837217543",
+    "nome_coordenador": "Jean Everson Martina",
+    "email_coordenador": "cco@contato.ufsc.br",
+    "website": "https://cco.ufsc.br/"
+  },
+  {
+    "codigo": "5",
+    "name": "Administração",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Matutino - Noturno",
+    "carga_horaria": "3600",
+    "mapa": {
+      "lat": "-27.598965632968223",
+      "lgn": "-48.5218122480923"
+    },
+    "fotos": [
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1Q2mggc-iN9G3jloitYjKMy-RyxOVd0SD0t5Kj3P052NNbbDk3eXTqeLKZ0BxG0GyW8&usqp=CAU"
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcZiMbtOZtLN8GSAqUOv-ucjr3QRrwihuRijfvpdkZ5LnESMcjPkYhMswFVWH5Xuar8M&usqp=CAU"
+      }
+    ],
+    "video": "",
+    "telefone_contato": "4837213888",
+    "nome_coordenador": "Raphael Schlickmann",
+    "email_coordenador": "raphael.schlickmann@ufsc.br",
+    "website": "https://administracao.ufsc.br/"
+  }
+]
