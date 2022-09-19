@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Text, View, StyleSheet, Button, Linking} from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-
 import { Platform } from 'react-native';
  
 export default class ContactDetailsScreen extends React.Component {

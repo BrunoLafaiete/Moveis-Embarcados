@@ -41,65 +41,65 @@
         "url": "https://www.google.com/maps/uv?pb=!1s0x952739a9c256404b%3A0xe6357a290b36c6b0!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN0zxPJT--Nb3nOJ-YfCQSW3ImxYt_tZ5KtQB-e%3Dw213-h160-k-no!5scds%20ufsc%20-%20Pesquisa%20Google!15sCgIgAQ&imagekey=!1e10!2sAF1QipPi5eGMxGC9TdqOa7YGCrRaLbOM--7mf6nWeupS&hl=pt-BR&sa=X&ved=2ahUKEwi14YPvpJD6AhWZuJUCHU4UBIIQoip6BAhYEAM"
       }
     ],
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=jLMAcMmNnXM&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=22",
     "telefone_contato": "4837219367",
     "nome_coordenador": "Carlos Luiz Cardoso",
-    "email_coordenador": "edfisica@contato.ufsc.br",
+    "email_coordenador": "c.cardoso@ufsc.br",
     "website": "https://edfisica.grad.ufsc.br/"
   },
   {
     "codigo": "3",
-    "name": "Odontologia",
+    "name": "Direito",
     "campus": "Campus Universitário Reitor João David Ferreira Lima",
-    "turno": "Integral",
-    "carga_horaria": "5274",
+    "turno": "Diuno ou Noturno",
+    "carga_horaria": "4440",
     "mapa": {
-      "lat": "-27.598837801030157",
-      "lgn": "-48.517693737151035"
+      "lat": "-27.598350743807156",
+      "lgn": "-48.522131368653156"
     },
     "fotos": [
       {
-        "url": "https://noticias.ufsc.br/files/2017/05/CCS.jpg"
+        "url": "https://ccj.paginas.ufsc.br/files/2018/08/85-anos.jpg"
       },
       {
-        "url": "https://noticias.paginas.ufsc.br/files/2012/02/odontologia_estagio_verao_2012_1.jpg"
+        "url": "https://caxif.ufsc.br/wp-content/uploads/CCJ-1180x400.jpg"
       }
     ],
-    "video": "",
-    "telefone_contato": "4837213461",
-    "nome_coordenador": "Glaucia Santos Zimmermann",
-    "email_coordenador": "odontologia@contato.ufsc.br",
-    "website": "https://odontologia.ufsc.br/"
+    "video": "https://www.youtube.com/watch?v=7t8agKmnmqY&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=27",
+    "telefone_contato": "4837219382",
+    "nome_coordenador": "Luiz Henrique Urquhart Cademartori",
+    "email_coordenador": "direito@contato.ufsc.br",
+    "website": "https://ccj.ufsc.br/"
   },
   {
     "codigo": "4",
-    "name": "Ciências da Computação",
+    "name": "Engenharia de Aquicultura",
     "campus": "Campus Universitário Reitor João David Ferreira Lima",
     "turno": "Integral",
-    "carga_horaria": "3840",
+    "carga_horaria": "4410",
     "mapa": {
-      "lat": "-27.599830132223484",
-      "lgn": "-48.51704830527177"
+      "lat": "-27.581699262956633",
+      "lgn": "-48.50582525229165"
     },
     "fotos": [
       {
-        "url": "https://cco.paginas.ufsc.br/files/2007/06/INE_IN.jpg"
+        "url": "https://engenhariadeaquicultura.paginas.ufsc.br/files/2019/11/Logo-AQI_20-anos.jpeg"
       },
       {
-        "url": "https://dine.paginas.ufsc.br/files/2018/08/treianamentoAgosto2018.jpg"
+        "url": "https://fastly.4sqi.net/img/general/600x600/28877338_-MD1AHfWvOQ86CwoalXb0h6CbB0P2M0cXuvECMRzpM0.jpg"
       }
     ],
-    "video": "",
-    "telefone_contato": "4837217543",
-    "nome_coordenador": "Jean Everson Martina",
-    "email_coordenador": "cco@contato.ufsc.br",
-    "website": "https://cco.ufsc.br/"
+    "video": "https://www.youtube.com/watch?v=Q9bJBuGT834&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=21",
+    "telefone_contato": "4837212708",
+    "nome_coordenador": "Marcos C. P. de Albuquerque",
+    "email_coordenador": "marcos.m@ufsc.br",
+    "website": "https://aquicultura.grad.ufsc.br/"
   },
   {
     "codigo": "5",
-    "name": "Administração",
+    "name": "Ciências Biológicas",
     "campus": "Campus Universitário Reitor João David Ferreira Lima",
-    "turno": "Matutino - Noturno",
+    "turno": "Diurno ou Noturno",
     "carga_horaria": "3600",
     "mapa": {
       "lat": "-27.598965632968223",
@@ -107,16 +107,16 @@
     },
     "fotos": [
       {
-        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1Q2mggc-iN9G3jloitYjKMy-RyxOVd0SD0t5Kj3P052NNbbDk3eXTqeLKZ0BxG0GyW8&usqp=CAU"
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_S4dak6JiWPaVBAul3THW7oFxBvFw2rGq8wnfA=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcZiMbtOZtLN8GSAqUOv-ucjr3QRrwihuRijfvpdkZ5LnESMcjPkYhMswFVWH5Xuar8M&usqp=CAU"
+        "url": "https://dptmip.paginas.ufsc.br/files/2020/06/CCB-UFSC.jpg"
       }
     ],
-    "video": "",
-    "telefone_contato": "4837213888",
-    "nome_coordenador": "Raphael Schlickmann",
-    "email_coordenador": "raphael.schlickmann@ufsc.br",
-    "website": "https://administracao.ufsc.br/"
+    "video": "https://www.youtube.com/watch?v=usGuzJLcpfQ&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=20",
+    "telefone_contato": "4837219235",
+    "nome_coordenador": "Daniela Cristina de Toni",
+    "email_coordenador": "biologia@contato.ufsc.br",
+    "website": "https://cienciasbiologicas.grad.ufsc.br/"
   }
 ]

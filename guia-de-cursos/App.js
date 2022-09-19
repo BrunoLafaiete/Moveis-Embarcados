@@ -1,6 +1,7 @@
 import * as React from 'react';
 import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
+import MapView from 'react-native-maps';
 
 import HomeScreen from './home';
 import CoursesListScreen from './CoursesList';
